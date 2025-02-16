@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm liskteha35563
 
-<!--
-**liskteha35563/liskteha35563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 🎯 Interested in game development 🎮 🎯
 
-Here are some ideas to get you started:
+## About Me
+🛶 🛹 🥊 Passionate about back-end development 🛶 🛹 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎳 🚀 A geek in cybersecurity 🎳 🚀
+
+### Fun Facts
+🎮 🥊 Interested in virtual reality 🎮 🥊
+
+---
+🏄 🥋 🚵 🛼 🚣 Thanks for visiting my profile! 🛹 🏓 🥋 🎬 🎱
